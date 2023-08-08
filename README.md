@@ -7,4 +7,4 @@ This script requires shodan premium account.
 Usage:
 1.Clone the repository from using git clone
 2.Provide executable permissions for the bash script
-3.Before running the bash script run shodan init <api_key>
+3.Run the bash script and provide shodan api_key,favicon url.
